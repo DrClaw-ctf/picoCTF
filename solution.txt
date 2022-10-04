@@ -1,6 +1,0 @@
-Clues suggest examining code.
-
-Quicker solution was to do the following:
-strings game > strings.txt
-
-Open strings.txt and set window width to 100char ( or examine strings output directly in terminal)
